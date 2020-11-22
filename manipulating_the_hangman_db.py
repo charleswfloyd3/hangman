@@ -26,4 +26,4 @@ for table in tables:
     record = cursor.fetchone()[0]
     print(f"{str(record)} is the record for {table} words.")
 
-connection.commit()
+connection.commit() 
