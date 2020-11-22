@@ -1,0 +1,15 @@
+CREATE TABLE 3letter(
+   numberOfGuesses INT(2) PRIMARY KEY
+);
+CREATE TABLE 4letter(
+   numberOfGuesses INT(2) PRIMARY KEY
+);
+CREATE TABLE 5letter(
+   numberOfGuesses INT(2) PRIMARY KEY
+);
+CREATE TABLE 6letter(
+   numberOfGuesses INT(2) PRIMARY KEY
+);
+CREATE TABLE 7letter(
+   numberOfGuesses INT(2) PRIMARY KEY
+);
